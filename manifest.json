@@ -2,10 +2,10 @@
   "optical_model": "optical-model-v0.8",
   "sensitivities": "sensitivities-v1",
   "synphot": "synphot-v1",
-  "psf": "psf-v1",
+  "psf": "psf-v2",
   "catalog": "catalog-v2",
   "optical_model_prism": "optical-model-prism-v0.8",
   "sensitivities_prism": "sensitivities-prism-v1",
-  "psf_prism": "psf-prism-v1",
-  "golden_frames": "golden-frames-v3"
+  "psf_prism": "psf-prism-v2",
+  "golden_frames": "golden-frames-v4"
 }
